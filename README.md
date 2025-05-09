@@ -1,6 +1,6 @@
 # Swasthya Sahayak
 
-** Doctor Recommendation Service**
+**Doctor Recommendation Service**
 
 Automatically scrapes doctor data, predicts possible diseases from user symptoms, and recommends specialists based on ratings and availability.
 
